@@ -16,3 +16,7 @@ IBM X-Force - "Hive0145 back in German inboxes with Strela Stealer and a backdoo
 GoDaddy - "Help TDS and its Malicious Plugins Redirect Thousands of Sites to Tech Support Scams" :  https://www.godaddy.com/resources/news/help-tds-malicious-plugins-redirect-tech-support-scams
 
 Lumen - Black Lotus Labs - "SystemBC - Bringing the noise" : https://blog.lumen.com/systembc-bringing-the-noise/
+
+Guardio Labs - "Thousands of Hijacked Major-Brand Subdomains Found Bombarding Users With Millions of Malicious Emails" : https://labs.guard.io/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions-a5e5fb892935
+
+
