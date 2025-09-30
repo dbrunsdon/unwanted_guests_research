@@ -3,9 +3,9 @@ Resources related to Unwanted Guests talk
 
 Infoblox Threat Intel Content : https://blogs.infoblox.com/category/threat-intelligence/
 
-Infoblox "DNS Malware Powers Strela Stealer Campaigns" : https://blogs.infoblox.com/threat-intelligence/detour-dog-dns-malware-powers-strela-stealer-campaigns/
+Infoblox - "DNS Malware Powers Strela Stealer Campaigns" : https://blogs.infoblox.com/threat-intelligence/detour-dog-dns-malware-powers-strela-stealer-campaigns/
 
-Infoblox "Vipers & Hawks - DNS Predators Attack Sitting Ducks Domains" : https://insights.infoblox.com/resources-research-report/infoblox-research-report-dns-predators-attack-vipers-hawks-hijack-sitting-ducks-domains
+Infoblox - "Vipers & Hawks - DNS Predators Attack Sitting Ducks Domains" : https://insights.infoblox.com/resources-research-report/infoblox-research-report-dns-predators-attack-vipers-hawks-hijack-sitting-ducks-domains
 
 Infoblox - "Vexing and Viscious: The Eerie Relationship Between WordPress Hackers and an Adtech Cabal" : https://blogs.infoblox.com/threat-intelligence/vexing-and-vicious-the-eerie-relationship-between-wordpress-hackers-and-an-adtech-cabal/
 
